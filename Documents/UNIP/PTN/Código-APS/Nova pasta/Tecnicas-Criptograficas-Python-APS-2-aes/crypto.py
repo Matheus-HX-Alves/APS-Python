@@ -141,7 +141,6 @@ def crypt():
   encrypted_message.writelines(matrix_end)
 
   return matrix_end
-crypt()
 
 
 
